@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/daffaadityarahman-14b588192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daffa Aditya" height="30" width="40" /></a>
 
-<br />
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
@@ -25,7 +24,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br /> 
 
 | <a href="https://github.com/DaffaAdityaDev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daffa Aditya" /></a> | <a href="https://github.com/DaffaAdityaDev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
