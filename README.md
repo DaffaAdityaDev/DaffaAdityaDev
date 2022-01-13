@@ -2,10 +2,10 @@
 
 **About me**
 
-- 🌱 &nbsp;Algorithms & Data structures
+- 🌱 &nbsp;I’m currently learning Algorithms & Data structures
 - 💬 &nbsp;Ask me about anything related to Javascript/Python or React/Next/Express
 - ❤️ I love writing Javascript, and building fun experiments 
-- ⚡ Fun fact: I love computer grapich & grapich design
+- ⚡ Fun fact: I love Computer Grapich & Grapich Design
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
