@@ -1,6 +1,6 @@
 ## Hi there, I'm daffa a self-taught developer from Indonesia 👋
 
-**About me** 
+**About me**
 
 - 🌱 &nbsp;I’m currently learning Algorithms & Data structures
 - 💬 &nbsp;Ask me about anything related to Javascript/Python or React/Next/Node
