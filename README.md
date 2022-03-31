@@ -1,4 +1,4 @@
-## Hi there, I'm daffa a self-taught developer from Indonesia 👋
+## Hi there, I'm daffa a self-taught developer from Indonesia 👋 
 
 **About me**
 
