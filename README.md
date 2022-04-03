@@ -28,4 +28,4 @@
 
 ### :zap: Activity Status
 
-<a href="https://github.com/DaffaAdityaDev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Daffa Aditya" /></a> 
+<a href="https://github.com/DaffaAdityaDev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Daffa Aditya" /></a>
