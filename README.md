@@ -2,7 +2,7 @@
  
 **About me**
 
-- 🌱 &nbsp;I’m currently learning Redux 
+- 🌱 &nbsp;I’m currently learning Redux
 - 💬 &nbsp;Ask me about anything related to Javascript/Python or React/Next/Node
 - ❤️ I love writing Javascript, and building fun experiments
 - ⚡ Fun fact: I love Design and solve problem
