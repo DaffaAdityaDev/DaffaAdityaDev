@@ -1,5 +1,5 @@
 ## Hi there, I'm daffa a self-taught developer from Indonesia 👋
- 
+
 **About me**
 
 - 🌱 &nbsp;I’m currently learning NUXT.JS
