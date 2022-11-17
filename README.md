@@ -3,9 +3,9 @@
 **About me** 
 
 - 🌱 &nbsp;I’m currently learning Android
-- 💬 &nbsp;Ask me about anything related to Javascript/Python or React/Next/Node
-- ❤️ I love writing Javascript, and building fun experiments
+- ❤️ I love Learn new Tech, and building fun experiments
 - ⚡ Fun fact: I love Design and solve problem
+- 👨‍💻 Software Engineer Student, Bootcamp Graduates, Self Taught
  
 🔗 &nbsp;**Connect with me**
 <p align="left">
