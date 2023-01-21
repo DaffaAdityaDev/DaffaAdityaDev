@@ -2,6 +2,7 @@
 
 **About me** 
 
+- 💻 Software Engineer & Web Developer
 - 🌱 &nbsp;I’m currently learning Android
 - ❤️ I love Learn new Tech, and building fun experiments
 - ⚡ Fun fact: I love Design and solve problem
