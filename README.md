@@ -32,8 +32,7 @@
 
 <a href="https://github.com/DaffaAdityaDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/DaffaAdityaDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact" />
 </a>
+
 
