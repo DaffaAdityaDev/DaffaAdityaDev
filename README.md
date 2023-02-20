@@ -31,8 +31,8 @@
 ### :zap: Activity Status
 
 <a href="https://github.com/DaffaAdityaDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&theme=react" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&theme=react" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact&langs_count=8&theme=react" />
 </a>
 
 
