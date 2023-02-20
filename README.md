@@ -31,6 +31,6 @@
 ### :zap: Activity Status
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&theme=radical)
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact&langs_count=8&theme=algolia"/>
+ ![DaffaAdityaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&theme=react)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
