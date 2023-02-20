@@ -32,5 +32,5 @@
 
 <a href="https://github.com/DaffaAdityaDev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Daffa Aditya" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaffaAdityaDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
