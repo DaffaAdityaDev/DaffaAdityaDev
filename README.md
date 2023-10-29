@@ -5,7 +5,7 @@
 - 💻 Software Engineer & Web Developer
 - 🌱 &nbsp;I’m currently learning Android Development & DSA
 - ❤️ love Learn new Tech and building fun experiments
-- ⚡ Fun fact: I love Design and solve problem
+- ⚡ Fun fact: I love Design and solve problem 
 - 👨‍💻 Software Engineer Student, Bootcamp Graduates, Self Taught
  
 🔗 &nbsp;**Connect with me**
