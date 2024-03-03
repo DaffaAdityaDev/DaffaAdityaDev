@@ -3,10 +3,9 @@
 **About me**
  
 - 💻 Software Engineer & Web Developer
-- 🌱 &nbsp;I’m currently learning Android Development & DSA
+- 🌱 &nbsp;I’m currently learning Full-Stack & DSA
 - ❤️ love Learn new Tech and building fun experiments
-- ⚡ Fun fact: I love Design and solve problem 
-- 👨‍💻 Software Engineer Student, Bootcamp Graduates, Self Taught
+- 👨‍💻 Software Engineer Student
  
 🔗 &nbsp;**Connect with me**
 <p align="left">
