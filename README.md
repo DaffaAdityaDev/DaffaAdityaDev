@@ -3,9 +3,9 @@
 **About me**
  
 - 💻 Software Engineer & Web Developer
-- 🌱 &nbsp;I’m currently learning Full-Stack & security
+- 🌱 &nbsp;I’m currently learning Full-Stack & web security
 - ❤️ love Learn new Tech and building fun experiments
-- 👨‍💻 Software Engineer Student
+- 👨‍💻 Working as Frontend Engineer
  
 🔗 &nbsp;**Connect with me**
 <p align="left">
